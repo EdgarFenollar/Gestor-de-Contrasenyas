@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GestorDeContrasenyas.iml" filepath="$PROJECT_DIR$/GestorDeContrasenyas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-acegisecurity/jasypt-acegisecurity.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-acegisecurity/jasypt-acegisecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-spring3-testapp/jasypt-spring3-testapp.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-spring3-testapp/jasypt-spring3-testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-spring31-testapp/jasypt-spring31-testapp.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-spring31-testapp/jasypt-spring31-testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-spring4-testapp/jasypt-spring4-testapp.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-spring4-testapp/jasypt-spring4-testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-springsecurity2/jasypt-springsecurity2.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-springsecurity2/jasypt-springsecurity2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-springsecurity3/jasypt-springsecurity3.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-springsecurity3/jasypt-springsecurity3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-springsecurity4/jasypt-springsecurity4.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-springsecurity4/jasypt-springsecurity4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-wicket13/jasypt-wicket13.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-wicket13/jasypt-wicket13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-wicket15/jasypt-wicket15.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-wicket15/jasypt-wicket15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-spring4/src/main/main.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-spring4/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-spring31/src/main/main1.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-spring31/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-spring2/src/main/main2.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-spring2/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt/src/main/main3.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-spring3/src/main/main4.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-spring3/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-hibernate4/src/main/main5.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-hibernate4/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-hibernate3/src/main/main6.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-hibernate3/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-hibernate5/src/main/main7.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-hibernate5/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-hibernate4/src/test/test.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-hibernate4/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-spring4/src/test/test1.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-spring4/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-hibernate5/src/test/test2.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-hibernate5/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt/src/test/test3.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-spring3/src/test/test4.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-spring3/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-spring2/src/test/test5.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-spring2/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-hibernate3/src/test/test6.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-hibernate3/src/test/test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasypt-master/jasypt-spring31/src/test/test7.iml" filepath="$PROJECT_DIR$/jasypt-master/jasypt-spring31/src/test/test7.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,107 @@
+/* styles.css */
+/* Establece el fondo negro */
+
+.root {
+
+    -fx-background-color: black;
+
+    -fx-alignment: center;
+
+    -fx-background-image: url(img/fondo.gif);
+
+    -fx-background-position: center center;
+
+    -fx-background-size: cover;
+
+}
+
+/* Estilo base para el botón */
+
+.button {
+
+    -fx-background-color: #4CAF50; /* Verde oscuro */
+
+    -fx-text-fill: white; /* Texto blanco */
+
+    -fx-font-size: 14px; /* Tamaño de fuente */
+
+    -fx-border-color: #4CAF50; /* Borde del mismo color que el fondo */
+
+    -fx-border-width: 2px; /* Ancho del borde */
+
+    -fx-background-radius: 5; /* Bordes redondeados */
+
+    -fx-border-radius: 5; /* Bordes redondeados */
+
+    -fx-background-insets: 0, 2; /* Ajuste de espaciado */
+
+}
+
+/* Cambia el color de fondo del botón y del borde al pasar el mouse */
+
+.button:hover {
+
+    -fx-background-color: #45ª045; /* Verde un tono más claro */
+
+    -fx-border-color: #45ª045; /* Borde del mismo color que el fondo */
+
+}
+
+/* Estilo para la etiqueta de la aplicación */
+
+.label {
+
+    -fx-font-size: 24px; /* Tamaño de fuente grande */
+
+    -fx-text-fill: #333333; /* Texto gris oscuro */
+
+    -fx-font-weight: bold; /* Texto en negrita (bold) */
+
+}
+
+
+/* Estilo para el cuadro de texto de la aplicación */
+
+.text-field {
+
+    -fx-font-size: 14px; /* Tamaño de fuente */
+
+    -fx-background-color: #F5F5F5; /* Fondo gris claro */
+
+    -fx-text-fill: #333333; /* Texto gris oscuro */
+
+    -fx-prompt-text-fill: #666666; /* Texto de marcador de posición gris más claro */
+
+}
+
+
+/* Estilo para el cuadro de texto de la contraseña */
+
+.text-area {
+
+    -fx-font-size: 14px; /* Tamaño de fuente */
+
+    -fx-background-color: #F5F5F5; /* Fondo gris claro */
+
+    -fx-text-fill: #333333; /* Texto gris oscuro */
+
+}
+
+#dialog-pane {
+    -fx-background-color: #f0f0f0; /* Cambia el color de fondo */
+}
+
+#dialog-header {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333; /* Cambia el color del texto del encabezado */
+}
+
+#dialog-content {
+    -fx-font-size: 12px;
+    -fx-text-fill: #333; /* Cambia el color del texto del contenido */
+}
+
+#dialog-ok-button {
+    -fx-base: #0074D9; /* Cambia el color de fondo del botón */
+    -fx-text-fill: white; /* Cambia el color del texto del botón */
+}

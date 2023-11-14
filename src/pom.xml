@@ -1,0 +1,7 @@
+<dependencies>
+    <dependency>
+        <groupId>org.jasypt</groupId>
+        <artifactId>jasypt</artifactId>
+        <version>1.9.3</version> <!-- Reemplaza con la última versión de Jasypt -->
+    </dependency>
+</dependencies>
